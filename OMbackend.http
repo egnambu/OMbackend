@@ -1,0 +1,6 @@
+@OMbackend_HostAddress = http://localhost:5267
+
+GET {{OMbackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
